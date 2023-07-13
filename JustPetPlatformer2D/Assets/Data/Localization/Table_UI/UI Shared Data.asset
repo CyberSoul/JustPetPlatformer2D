@@ -39,6 +39,14 @@ MonoBehaviour:
     m_Key: Back
     m_Metadata:
       m_Items: []
+  - m_Id: 36239564853248
+    m_Key: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36332435132416
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
