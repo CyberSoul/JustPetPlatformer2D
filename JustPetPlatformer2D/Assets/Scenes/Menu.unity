@@ -394,6 +394,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1561890231}
     m_Modifications:
+    - target: {fileID: 4105295545386499863, guid: fab1d7ea6875a0045880a4044bc7bbd5, type: 3}
+      propertyPath: m_text
+      value: About
+      objectReference: {fileID: 0}
     - target: {fileID: 4105295545386499944, guid: fab1d7ea6875a0045880a4044bc7bbd5, type: 3}
       propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
       value: 136946372608
@@ -570,6 +574,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1561890231}
     m_Modifications:
+    - target: {fileID: 4105295545386499863, guid: fab1d7ea6875a0045880a4044bc7bbd5, type: 3}
+      propertyPath: m_text
+      value: Settings
+      objectReference: {fileID: 0}
     - target: {fileID: 4105295545386499944, guid: fab1d7ea6875a0045880a4044bc7bbd5, type: 3}
       propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
       value: 2473584742400
@@ -838,6 +846,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1561890231}
     m_Modifications:
+    - target: {fileID: 4105295545386499863, guid: fab1d7ea6875a0045880a4044bc7bbd5, type: 3}
+      propertyPath: m_text
+      value: Exit
+      objectReference: {fileID: 0}
     - target: {fileID: 4105295545386499944, guid: fab1d7ea6875a0045880a4044bc7bbd5, type: 3}
       propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
       value: 152435937280
@@ -1062,6 +1074,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1561890231}
     m_Modifications:
+    - target: {fileID: 4105295545386499863, guid: fab1d7ea6875a0045880a4044bc7bbd5, type: 3}
+      propertyPath: m_text
+      value: Start
+      objectReference: {fileID: 0}
     - target: {fileID: 4105295545386499944, guid: fab1d7ea6875a0045880a4044bc7bbd5, type: 3}
       propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
       value: 114964025344
